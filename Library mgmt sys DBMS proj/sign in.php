@@ -23,6 +23,7 @@ if($count>0){
 }
 else{
 	echo "<script>alert('Invalid username/password');</script>";
+  echo "Pls give the right password";
 	}
 }
 
