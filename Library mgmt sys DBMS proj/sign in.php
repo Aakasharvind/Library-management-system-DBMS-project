@@ -56,7 +56,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 .topnav a:hover {
-	background-color:#34757b;
+	background-color: red;
 }
 .header {
   display: block;
